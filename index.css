@@ -1,0 +1,215 @@
+/* css normalize reset styles */
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+del,
+dfn,
+em,
+font,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend {
+	vertical-align: baseline;
+	font-family: inherit;
+	font-weight: inherit;
+	font-style: inherit;
+	font-size: 100%;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	/* border: 0; */
+}
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	max-width: 100%;
+	/* border: 1px solid red; */
+}
+
+/* end normalize code */
+
+/** general styles for every site **/
+html {
+	font-size: 62.5%;
+}
+
+body {
+	font-size: 1.6rem;
+	line-height: 1.5;
+	color: #4f4f4f;
+    font-family: 'Roboto', sans-serif;
+}
+
+section {
+	padding: 4% 0;
+}
+
+a {
+	text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* site style settings */
+header {
+
+
+}
+
+h1 {
+    font-family: 'Chelsea Market', cursive;
+    font-size: 5rem;
+}
+
+nav {
+    padding: 2% 0;
+}
+
+nav a {
+    display: inline-block;
+    width: 15%;
+    padding: 1% 0;
+    border-radius: 10px;
+    text-align: center;
+    color: #fff;
+    animation: 3s;
+}
+
+nav a:hover {
+    color: #4f4f4f;
+    background-color: #fff;
+    animation: 3s;
+}
+
+.orange {
+    background-color: #FF764E;
+    margin-left: 10%;
+}
+.blue {
+    background-color: #5ED3EB;
+    margin: 0 15%;
+}
+.yellow {
+    background-color: #FFCD69;
+    margin-right: 10%;
+}
+
+/* top section styles */
+
+.top {
+    position: relative;
+}
+.right, .left {
+    display: inline-block;
+    text-align: center;
+}
+.right {
+    width: 55%;
+    margin-left: 5%;
+    position: absolute;
+    top: 35%;
+}
+
+.left {
+    width: 30%;
+}
+
+.left img {
+    border-radius: 50%;
+    width: 80%;
+}
+
+/* main text code */
+.main {
+    background-color: #DDB9A3;
+    margin: 2%;
+    padding: 3%;
+    color: #fff;
+}
+
+
+/* footer style */
+footer {
+    background-color: #F9E7DC;
+}
+
+.bottom-img {
+    background-image: url("assets/footer_img.jpg");
+    height: 300px;
+    background-position: center; 
+}
+
+.middle {
+    text-align: center;
+    width: 95%;
+    margin: 3% 0;
+    margin: 0 auto;
+}
+
+.middle img {
+    width: 200px;
+}
+
+.wrap {
+    width: 40%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.bold {
+    font-weight: bold;
+}
+
