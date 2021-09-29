@@ -42,13 +42,13 @@ Once your repository is set up, practice what you learned today to style the sit
   - [X] All other text is Roboto Mono, also available on [google fonts](https://fonts.google.com/specimen/Roboto+Mono)
 - [X] Color the background of the main text body with `#DDB9A3`
 - [X] Color the background of the footer with `#F9E7DC`
-- [ ] Bold the words "current fire restrictions" and "park entrance fee" according to the design file
+- [X] Bold the words "current fire restrictions" and "park entrance fee" according to the design file
 - [ ] Apply box model properties (content, padding, margin, and border) to all content such that your webpage matches the design file. This will include at least:
-  - [ ] A round image in the header
-  - [ ] Round corners on navigation and footer items
-  - [ ] Header image and text side by side
-  - [ ] Centered content and margins around content
-  - [ ] Footer image positioning
+  - [x} A round image in the header
+  - [X] Round corners on navigation and footer items
+  - [X] Header image and text side by side
+  - [X] Centered content and margins around content
+  - [X] Footer image positioning
 
 **Throughout your design you should avoid static units (pixels), and should instead use responsive units wherever possible.**
 
@@ -59,10 +59,11 @@ Once your repository is set up, practice what you learned today to style the sit
 
 The following goals are designed to stretch your knowledge and may require additional research beyond what was learned in class today.
 
-- [ ] Add CSS animations (hover, mouseover, etc.)
+- [X] Add CSS animations (hover, mouseover, etc.)
 - [ ] Design and execute your own pages for `Plan your Visit`, `Learn About the Park`, or `Get Involved`
 - [ ] Use [favicon.io](https://favicon.io/favicon-converter/) to convert the campfire and RV images to real favicons and use them in your project
-- [ ] Host your website on Netlify.com
+- [X] Host your website on Netlify.com
+      https://silly-panini-a1cedc.netlify.app/
 
 ## Resources
 
