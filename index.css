@@ -164,3 +164,43 @@ nav a {
     border-radius: 50%;
     width: 80%;
 }
+
+/* main text code */
+.main {
+    background-color: #DDB9A3;
+    margin: 2%;
+    padding: 3%;
+    color: #fff;
+}
+
+
+/* footer style */
+footer {
+    background-color: #F9E7DC;
+}
+
+.bottom-img {
+    background-image: url("assets/footer_img.jpg");
+    height: 300px;
+    background-position: center; 
+}
+
+.middle {
+    text-align: center;
+    width: 95%;
+    margin: 3% 0;
+}
+
+.middle img {
+    width: 200px;
+}
+
+.wrap {
+    width: 40%;
+    text-align: center;
+}
+
+.bold {
+    font-weight: bold;
+}
+
